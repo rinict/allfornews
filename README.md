@@ -1,0 +1,2 @@
+# allfornews
+newspaper details
