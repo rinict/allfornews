@@ -1,0 +1,133 @@
+
+    body{
+      opacity:1
+      color:#000000;
+      font-family:HelveticaLTStd-Bold,AdobeInvisFont,MyriadPro-Regular;
+      
+    }
+    .container{
+      margin: 0 auto;
+      
+    }
+    .navbar {
+      height: 77px;
+      margin-top: 50px;
+      border-radius: 0;
+      margin-bottom: 150px;
+            
+    }
+    .icon-bar{
+      background-color: #1E1E1E;
+    }
+    
+    ul li a {
+      font-size:18px;
+      padding: 10px;
+      align:center;
+    }
+    ul li a:hover {
+      border-radius: 5px;
+
+    }
+    .welcome{
+      font-size:36px;
+      align:center;
+    }
+    p{
+      font-size:16px;
+      align:center;
+    }
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+      
+    }
+    .burn{
+      font-size:36px;
+      color: black;
+      line-height: 27px;
+    }
+  
+    .studio{
+      line-height: 27px;
+      font-size: 36px;
+      color: #D34545;
+      
+    }
+  .btn{
+    background-color: #222222;
+    color: #FFFFFF;
+    font-size:18px;
+    align:center;
+  }
+  .project{
+    height: 252px;
+    margin-bottom: 99px;
+  }
+  .card{
+    width: 301px;
+    
+  }
+  .section-bottom{
+    max-width: 100%;
+    margin-left: 0px;
+    background-color: #E5E5E5;
+    margin-bottom: 33px;
+    padding-bottom: 66px;
+  }
+  section{
+    background-color: #E5E5E5;
+  }
+  .medialist{
+    display: block;
+    list-style: none;
+    padding-left: 0px;
+  }
+  .medialist li{
+    display: inline-block;
+  }
+  section .card-title{
+    margin-top: 0px;
+  }
+  .fleft{
+    font-size:15px;
+    text-align: left;
+    
+  }
+  .fright{
+    font-size:15px;
+    float: right;
+  }
+  .fright li {
+    display: inline-block;
+    
+}
+.fright li a:hover{
+    text-decoration: none;
+}
+  .active, a:hover {
+   color: #666;
+  
+}
+.active1, a:hover {
+   color: #099999;
+  
+}
+.webcard{
+  float: right;
+  margin-bottom: 60px;
+}
+.webcard1{
+  float: right;
+  margin-bottom: 60px;
+}
+.btn{
+  margin-bottom: 93px;
+}
+.project{
+    text-align:left; 
+    padding-top: 30px; 
+    padding-bottom: 43px;
+    height: auto;
+    margin-bottom: 0px;
+}
